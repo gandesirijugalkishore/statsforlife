@@ -1,10 +1,9 @@
-# Penguins web app deployed on Heroku
+# Basic STreamlit Application built for my personal assignment grading
 
 Check out the YouTube video showing the development of this web app at https://youtu.be/zK4Ch6e1zq8
 
-The deployed web app is live at https://dp-penguins.herokuapp.com/
 
-This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
+This web app displays stats of student performance based on their assignment grades uploded via excel.csv files.
 
 The web app was built in Python using the following libraries:
 * streamlit
